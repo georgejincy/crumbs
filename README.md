@@ -4,7 +4,8 @@
 
 ## Screenshots
 
-![alt tag](public/assets/images/crumbs.png)
+![crumbs](public/assets/images/crumbs.png)
+![crumbs-login](public/assets/images/crumbs-login.png)
 
 ## Technologies used
 - node.js
