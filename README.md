@@ -4,7 +4,7 @@
 
 ## Screenshots
 
-![alt tag](http://g.recordit.co/hj1bpmGT3D.gif)
+![alt tag](public/assets/images/crumbs.png)
 
 ## Technologies used
 - node.js
@@ -32,21 +32,7 @@ What to install and how for local development and testing purposes
 ## Built With
 
 * Sublime Text
-* Balsamiq - Wireframe of choice 
-* RoboMongo - Because .pretty() everything is tedious
 
-## Walk throughs of code
-For Project presentation, you can include snippets of code you found buggy, interesting, or are overall proud of here.  Try to limit the quantity and size to quick readable bits.
-
-You can also show where you've used technologies you've learned and applied here.
-
-```
-function awesomeThing() {
-    //...
-    // try not to make it too long otherwise, point to filepaths:line numbers
-    //...
-}
-```
 
 ## Authors
 
@@ -56,14 +42,8 @@ function awesomeThing() {
 * **Guru** - *Initial work* - [Jincy George](https://github.com)
 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
