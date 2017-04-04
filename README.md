@@ -59,7 +59,7 @@ Clone or fork this repo:
 https://github.com/georgejincy/crumbs.git
 ```
 
-Set up the database and create the database in MySQL
+Set up the database and create the database "dishes_db" in MySQL
 
 Run the app:
 
@@ -67,7 +67,7 @@ Run the app:
 node server
 ```
 
-You can now navigate to 'localhost:5000/' to access Crumbs.
+You can now navigate to 'localhost:8080/' to access Crumbs.
 
 ## Built With
 
