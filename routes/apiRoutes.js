@@ -23,7 +23,7 @@ module.exports = function(app) {
     //Render the Signup page if errors exist, also pass the errors
     if(errors){
       var hbsObject = {
-      title: "Sign Up - Magic Prawns",
+      title: "Sign Up - Crumbs",
       layout: "useraccount",
       errors: errors
       };
