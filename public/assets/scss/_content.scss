@@ -1,10 +1,13 @@
 
 //masthead styles
+body{
+	background-color: $base-black
+}
 
 .masthead{
 	text-align: center;
-	background-color: $brand-secondary;
-	background-image: url(../images/masthead_bg1.jpg);
+	xbackground-color: $brand-secondary;
+	xbackground-image: url(../images/masthead_bg1.jpg);
 	/* background-blend-mode: hard-light; */
 	background-repeat: no-repeat;
   background-position: center center;
